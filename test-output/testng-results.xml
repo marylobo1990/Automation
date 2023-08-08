@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T01:59:53 IST" name="Suite" finished-at="2023-08-09T02:02:29 IST" duration-ms="155929">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T01:59:53 IST" name="Test" finished-at="2023-08-09T02:02:29 IST" duration-ms="155929">
+      <class name="tests.Etoileitemtest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Etoileitemtest@433defed]" started-at="2023-08-09T02:00:55 IST" name="setup" finished-at="2023-08-09T02:01:15 IST" duration-ms="19670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testshop()[pri:0, instance:tests.Etoileitemtest@433defed]" started-at="2023-08-09T02:01:15 IST" name="testshop" finished-at="2023-08-09T02:01:29 IST" duration-ms="14165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testshop -->
+      </class> <!-- tests.Etoileitemtest -->
+      <class name="tests.Etoilelogintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Etoilelogintest@2a693f59]" started-at="2023-08-09T02:01:29 IST" name="setup" finished-at="2023-08-09T02:02:07 IST" duration-ms="37532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testsignin()[pri:0, instance:tests.Etoilelogintest@2a693f59]" started-at="2023-08-09T02:02:07 IST" name="testsignin" finished-at="2023-08-09T02:02:29 IST" duration-ms="22118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsignin -->
+      </class> <!-- tests.Etoilelogintest -->
+      <class name="tests.Etoileacctest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Etoileacctest@305ffe9e]" started-at="2023-08-09T01:59:53 IST" name="setup" finished-at="2023-08-09T02:00:36 IST" duration-ms="42908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcreateaccnt()[pri:0, instance:tests.Etoileacctest@305ffe9e]" started-at="2023-08-09T02:00:36 IST" name="testcreateaccnt" finished-at="2023-08-09T02:00:55 IST" duration-ms="19408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateaccnt -->
+      </class> <!-- tests.Etoileacctest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
